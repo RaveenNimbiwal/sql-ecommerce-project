@@ -15,7 +15,7 @@ Columns:
 - email
 - age
 - gender
-- country
+- county (city)
 - state
 - signup_date
 
